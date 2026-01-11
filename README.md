@@ -4,7 +4,7 @@ This project contains end-to-end tests written using WebdriverIO.
 
 ## My Website
 
-- Check out my [Website](https://vlad-resume.web.app/)
+- Check out my [Website](https://vlad-resume.web.app/){:target="_blank"}
 > [!NOTE]
 > The website is optimized for desktop but it works on mobile too
 
